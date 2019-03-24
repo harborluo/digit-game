@@ -1,0 +1,281 @@
+{2019-03-24 19:04:29.442} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.BuzzGameRule' added, count of rules is 1.
+{2019-03-24 19:04:29.448} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.FizzGameRule' added, count of rules is 2.
+{2019-03-24 19:04:29.449} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.DefaultGameRule' added, count of rules is 3.
+{2019-03-24 19:04:29.449} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 1 to 1
+{2019-03-24 19:04:29.449} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 2 to 2
+{2019-03-24 19:04:29.454} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 3 to Fizz
+{2019-03-24 19:04:29.455} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 4 to 4
+{2019-03-24 19:04:29.455} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 5 to Buzz
+{2019-03-24 19:04:29.455} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 6 to Fizz
+{2019-03-24 19:04:29.455} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 7 to 7
+{2019-03-24 19:04:29.455} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 8 to 8
+{2019-03-24 19:04:29.455} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 9 to Fizz
+{2019-03-24 19:04:29.455} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 10 to Buzz
+{2019-03-24 19:04:29.455} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 11 to 11
+{2019-03-24 19:04:29.456} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 12 to Fizz
+{2019-03-24 19:04:29.456} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 13 to 13
+{2019-03-24 19:04:29.456} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 14 to 14
+{2019-03-24 19:04:29.456} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 15 to BuzzFizz
+{2019-03-24 19:04:29.456} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 16 to 16
+{2019-03-24 19:04:29.456} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 17 to 17
+{2019-03-24 19:04:29.456} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 18 to Fizz
+{2019-03-24 19:04:29.456} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 19 to 19
+{2019-03-24 19:04:29.457} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 20 to Buzz
+{2019-03-24 19:04:29.457} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 21 to Fizz
+{2019-03-24 19:04:29.457} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 22 to 22
+{2019-03-24 19:04:29.457} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 23 to 23
+{2019-03-24 19:04:29.457} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 24 to Fizz
+{2019-03-24 19:04:29.457} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 25 to Buzz
+{2019-03-24 19:04:29.458} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 26 to 26
+{2019-03-24 19:04:29.458} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 27 to Fizz
+{2019-03-24 19:04:29.458} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 28 to 28
+{2019-03-24 19:04:29.458} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 29 to 29
+{2019-03-24 19:04:29.458} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 30 to BuzzFizz
+{2019-03-24 19:04:29.458} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 31 to 31
+{2019-03-24 19:04:29.458} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 32 to 32
+{2019-03-24 19:04:29.459} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 33 to Fizz
+{2019-03-24 19:04:29.459} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 34 to 34
+{2019-03-24 19:04:29.459} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 35 to Buzz
+{2019-03-24 19:04:29.459} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 36 to Fizz
+{2019-03-24 19:04:29.459} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 37 to 37
+{2019-03-24 19:04:29.459} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 38 to 38
+{2019-03-24 19:04:29.459} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 39 to Fizz
+{2019-03-24 19:04:29.462} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 40 to Buzz
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 41 to 41
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 42 to Fizz
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 43 to 43
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 44 to 44
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 45 to BuzzFizz
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 46 to 46
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 47 to 47
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 48 to Fizz
+{2019-03-24 19:04:29.463} [main] INFO  c.harbor.digit.game.GameApplication.main(35) - Transfer digit 49 to 49
+{2019-03-24 19:20:53.737} [main] DEBUG com.harbor.game.rule.TestGameRule.test(23) - Transfer 1 to Buzz
+{2019-03-24 19:25:41.294} [main] DEBUG com.harbor.game.rule.TestGameRule.test(23) - Transfer 1 to 
+{2019-03-24 19:27:16.295} [main] DEBUG com.harbor.game.rule.TestGameRule.test(23) - Transfer 1 to 
+{2019-03-24 19:30:27.757} [main] DEBUG com.harbor.game.rule.TestGameRule.test(23) - Transfer 1 to ''
+{2019-03-24 19:30:27.763} [main] DEBUG com.harbor.game.rule.TestGameRule.test(27) - Transfer 5 to 'Buzz'
+{2019-03-24 19:31:03.184} [main] DEBUG com.harbor.game.rule.TestGameRule.test(23) - Transfer 1 to ''
+{2019-03-24 19:31:03.191} [main] DEBUG com.harbor.game.rule.TestGameRule.test(28) - Transfer 5 to 'Buzz'
+{2019-03-24 19:31:44.617} [main] DEBUG com.harbor.game.rule.TestGameRule.test(23) - Transfer 1 to ''
+{2019-03-24 19:31:44.623} [main] DEBUG com.harbor.game.rule.TestGameRule.test(28) - Transfer 5 to 'Buzz'
+{2019-03-24 19:36:31.139} [main] DEBUG com.harbor.game.rule.TestGameRule.test(23) - Transfer 1 to ''
+{2019-03-24 19:36:31.146} [main] DEBUG com.harbor.game.rule.TestGameRule.test(28) - Transfer 5 to 'Buzz'
+{2019-03-24 19:39:57.620} [main] DEBUG com.harbor.game.rule.TestGameRule.test(24) - Transfer 1 to ''
+{2019-03-24 19:39:57.628} [main] DEBUG com.harbor.game.rule.TestGameRule.test(31) - Transfer 5 to 'Buzz'
+{2019-03-24 19:40:15.245} [main] DEBUG com.harbor.game.rule.TestGameRule.test(24) - Transfer 1 to ''
+{2019-03-24 19:40:15.251} [main] DEBUG com.harbor.game.rule.TestGameRule.test(31) - Transfer 5 to 'Buzz'
+{2019-03-24 19:43:52.181} [main] DEBUG com.harbor.game.rule.TestGameRule.testFizzRule(45) - Transfer 1 to ''
+{2019-03-24 19:43:52.190} [main] DEBUG com.harbor.game.rule.TestGameRule.testFizzRule(52) - Transfer 3 to 'Fizz'
+{2019-03-24 19:44:18.461} [main] DEBUG com.harbor.game.rule.TestGameRule.testBuzzRule(25) - Transfer 1 to ''
+{2019-03-24 19:44:18.470} [main] DEBUG com.harbor.game.rule.TestGameRule.testBuzzRule(32) - Transfer 5 to 'Buzz'
+{2019-03-24 19:44:18.471} [main] DEBUG com.harbor.game.rule.TestGameRule.testFizzRule(45) - Transfer 1 to ''
+{2019-03-24 19:44:18.472} [main] DEBUG com.harbor.game.rule.TestGameRule.testFizzRule(52) - Transfer 3 to 'Fizz'
+{2019-03-24 19:48:35.251} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.BuzzGameRule' added, count of rules is 1.
+{2019-03-24 19:48:35.257} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.FizzGameRule' added, count of rules is 2.
+{2019-03-24 19:48:35.257} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.DefaultGameRule' added, count of rules is 3.
+{2019-03-24 19:48:35.257} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 1 to 1
+{2019-03-24 19:48:35.257} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 2 to 2
+{2019-03-24 19:48:35.258} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 3 to Fizz
+{2019-03-24 19:48:35.258} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 4 to 4
+{2019-03-24 19:48:35.258} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 5 to Buzz
+{2019-03-24 19:48:35.258} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 6 to Fizz
+{2019-03-24 19:48:35.258} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 7 to 7
+{2019-03-24 19:48:35.258} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 8 to 8
+{2019-03-24 19:48:35.259} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 9 to Fizz
+{2019-03-24 19:48:35.259} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 10 to Buzz
+{2019-03-24 19:48:35.259} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 11 to 11
+{2019-03-24 19:48:35.259} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 12 to Fizz
+{2019-03-24 19:48:35.259} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 13 to 13
+{2019-03-24 19:48:35.259} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 14 to 14
+{2019-03-24 19:48:35.259} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 15 to BuzzFizz
+{2019-03-24 19:48:35.260} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 16 to 16
+{2019-03-24 19:48:35.260} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 17 to 17
+{2019-03-24 19:48:35.260} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 18 to Fizz
+{2019-03-24 19:48:35.260} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 19 to 19
+{2019-03-24 19:48:35.260} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 20 to Buzz
+{2019-03-24 19:48:35.260} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 21 to Fizz
+{2019-03-24 19:48:35.261} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 22 to 22
+{2019-03-24 19:48:35.261} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 23 to 23
+{2019-03-24 19:48:35.261} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 24 to Fizz
+{2019-03-24 19:48:35.261} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 25 to Buzz
+{2019-03-24 19:48:35.261} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 26 to 26
+{2019-03-24 19:48:35.261} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 27 to Fizz
+{2019-03-24 19:48:35.261} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 28 to 28
+{2019-03-24 19:48:35.261} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 29 to 29
+{2019-03-24 19:48:35.262} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 30 to BuzzFizz
+{2019-03-24 19:48:35.262} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 31 to 31
+{2019-03-24 19:48:35.265} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 32 to 32
+{2019-03-24 19:48:35.265} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 33 to Fizz
+{2019-03-24 19:48:35.266} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 34 to 34
+{2019-03-24 19:48:35.266} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 35 to Buzz
+{2019-03-24 19:48:35.266} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 36 to Fizz
+{2019-03-24 19:48:35.266} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 37 to 37
+{2019-03-24 19:48:35.266} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 38 to 38
+{2019-03-24 19:48:35.266} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 39 to Fizz
+{2019-03-24 19:48:35.266} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 40 to Buzz
+{2019-03-24 19:48:35.267} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 41 to 41
+{2019-03-24 19:48:35.267} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 42 to Fizz
+{2019-03-24 19:48:35.267} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 43 to 43
+{2019-03-24 19:48:35.267} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 44 to 44
+{2019-03-24 19:48:35.267} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 45 to BuzzFizz
+{2019-03-24 19:48:35.267} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 46 to 46
+{2019-03-24 19:48:35.267} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 47 to 47
+{2019-03-24 19:48:35.267} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 48 to Fizz
+{2019-03-24 19:48:35.268} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 49 to 49
+{2019-03-24 19:50:32.757} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.BuzzGameRule' added, count of rules is 1.
+{2019-03-24 19:50:32.764} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.FizzGameRule' added, count of rules is 2.
+{2019-03-24 19:50:32.764} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.DefaultGameRule' added, count of rules is 3.
+{2019-03-24 19:50:32.764} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 1 to 1
+{2019-03-24 19:50:32.765} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 2 to 2
+{2019-03-24 19:50:32.765} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 3 to Fizz
+{2019-03-24 19:50:32.765} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 4 to 4
+{2019-03-24 19:50:32.765} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 5 to Buzz
+{2019-03-24 19:50:32.765} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 6 to Fizz
+{2019-03-24 19:50:32.765} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 7 to 7
+{2019-03-24 19:50:32.765} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 8 to 8
+{2019-03-24 19:50:32.766} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 9 to Fizz
+{2019-03-24 19:50:32.766} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 10 to Buzz
+{2019-03-24 19:50:32.766} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 11 to 11
+{2019-03-24 19:50:32.766} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 12 to Fizz
+{2019-03-24 19:50:32.766} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 13 to 13
+{2019-03-24 19:50:32.766} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 14 to 14
+{2019-03-24 19:50:32.766} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 15 to BuzzFizz
+{2019-03-24 19:50:32.767} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 16 to 16
+{2019-03-24 19:50:32.767} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 17 to 17
+{2019-03-24 19:50:32.767} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 18 to Fizz
+{2019-03-24 19:50:32.767} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 19 to 19
+{2019-03-24 19:50:32.767} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 20 to Buzz
+{2019-03-24 19:50:32.768} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 21 to Fizz
+{2019-03-24 19:50:32.768} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 22 to 22
+{2019-03-24 19:50:32.768} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 23 to 23
+{2019-03-24 19:50:32.768} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 24 to Fizz
+{2019-03-24 19:50:32.768} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 25 to Buzz
+{2019-03-24 19:50:32.768} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 26 to 26
+{2019-03-24 19:50:32.768} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 27 to Fizz
+{2019-03-24 19:50:32.769} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 28 to 28
+{2019-03-24 19:50:32.769} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 29 to 29
+{2019-03-24 19:50:32.769} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 30 to BuzzFizz
+{2019-03-24 19:50:32.769} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 31 to 31
+{2019-03-24 19:50:32.769} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 32 to 32
+{2019-03-24 19:50:32.772} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 33 to Fizz
+{2019-03-24 19:50:32.772} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 34 to 34
+{2019-03-24 19:50:32.772} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 35 to Buzz
+{2019-03-24 19:50:32.772} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 36 to Fizz
+{2019-03-24 19:50:32.773} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 37 to 37
+{2019-03-24 19:50:32.773} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 38 to 38
+{2019-03-24 19:50:32.773} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 39 to Fizz
+{2019-03-24 19:50:32.773} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 40 to Buzz
+{2019-03-24 19:50:32.773} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 41 to 41
+{2019-03-24 19:50:32.773} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 42 to Fizz
+{2019-03-24 19:50:32.774} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 43 to 43
+{2019-03-24 19:50:32.774} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 44 to 44
+{2019-03-24 19:50:32.774} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 45 to BuzzFizz
+{2019-03-24 19:50:32.774} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 46 to 46
+{2019-03-24 19:50:32.774} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 47 to 47
+{2019-03-24 19:50:32.775} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 48 to Fizz
+{2019-03-24 19:50:32.775} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 49 to 49
+{2019-03-24 19:52:23.159} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.BuzzGameRule' added, count of rules is 1.
+{2019-03-24 19:52:23.166} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.FizzGameRule' added, count of rules is 2.
+{2019-03-24 19:52:23.167} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.DefaultGameRule' added, count of rules is 3.
+{2019-03-24 19:52:23.167} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 1 to 1
+{2019-03-24 19:52:23.167} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 2 to 2
+{2019-03-24 19:52:23.167} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 3 to Fizz
+{2019-03-24 19:52:23.167} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 4 to 4
+{2019-03-24 19:52:23.168} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 5 to Buzz
+{2019-03-24 19:52:23.168} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 6 to Fizz
+{2019-03-24 19:52:23.168} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 7 to 7
+{2019-03-24 19:52:23.168} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 8 to 8
+{2019-03-24 19:52:23.168} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 9 to Fizz
+{2019-03-24 19:52:23.168} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 10 to Buzz
+{2019-03-24 19:52:23.168} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 11 to 11
+{2019-03-24 19:52:23.169} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 12 to Fizz
+{2019-03-24 19:52:23.169} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 13 to 13
+{2019-03-24 19:52:23.169} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 14 to 14
+{2019-03-24 19:52:23.169} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 15 to BuzzFizz
+{2019-03-24 19:52:23.169} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 16 to 16
+{2019-03-24 19:52:23.170} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 17 to 17
+{2019-03-24 19:52:23.170} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 18 to Fizz
+{2019-03-24 19:52:23.170} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 19 to 19
+{2019-03-24 19:52:23.170} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 20 to Buzz
+{2019-03-24 19:52:23.170} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 21 to Fizz
+{2019-03-24 19:52:23.170} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 22 to 22
+{2019-03-24 19:52:23.171} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 23 to 23
+{2019-03-24 19:52:23.171} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 24 to Fizz
+{2019-03-24 19:52:23.171} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 25 to Buzz
+{2019-03-24 19:52:23.171} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 26 to 26
+{2019-03-24 19:52:23.174} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 27 to Fizz
+{2019-03-24 19:52:23.175} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 28 to 28
+{2019-03-24 19:52:23.175} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 29 to 29
+{2019-03-24 19:52:23.175} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 30 to BuzzFizz
+{2019-03-24 19:52:23.175} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 31 to 31
+{2019-03-24 19:52:23.175} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 32 to 32
+{2019-03-24 19:52:23.175} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 33 to Fizz
+{2019-03-24 19:52:23.176} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 34 to 34
+{2019-03-24 19:52:23.176} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 35 to Buzz
+{2019-03-24 19:52:23.176} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 36 to Fizz
+{2019-03-24 19:52:23.176} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 37 to 37
+{2019-03-24 19:52:23.176} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 38 to 38
+{2019-03-24 19:52:23.176} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 39 to Fizz
+{2019-03-24 19:52:23.176} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 40 to Buzz
+{2019-03-24 19:52:23.177} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 41 to 41
+{2019-03-24 19:52:23.177} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 42 to Fizz
+{2019-03-24 19:52:23.177} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 43 to 43
+{2019-03-24 19:52:23.177} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 44 to 44
+{2019-03-24 19:52:23.177} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 45 to BuzzFizz
+{2019-03-24 19:52:23.177} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 46 to 46
+{2019-03-24 19:52:23.178} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 47 to 47
+{2019-03-24 19:52:23.178} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 48 to Fizz
+{2019-03-24 19:52:23.178} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 49 to 49
+{2019-03-24 19:53:13.412} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.BuzzGameRule' added, count of rules is 1.
+{2019-03-24 19:53:13.420} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.FizzGameRule' added, count of rules is 2.
+{2019-03-24 19:53:13.420} [main] INFO  c.harbor.digit.game.GameApplication.addRule(44) - New rule with class name 'com.harbor.digit.game.rule.DefaultGameRule' added, count of rules is 3.
+{2019-03-24 19:53:13.420} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 1 to 1
+{2019-03-24 19:53:13.420} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 2 to 2
+{2019-03-24 19:53:13.421} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 3 to Fizz
+{2019-03-24 19:53:13.421} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 4 to 4
+{2019-03-24 19:53:13.421} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 5 to Buzz
+{2019-03-24 19:53:13.421} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 6 to Fizz
+{2019-03-24 19:53:13.422} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 7 to 7
+{2019-03-24 19:53:13.422} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 8 to 8
+{2019-03-24 19:53:13.422} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 9 to Fizz
+{2019-03-24 19:53:13.422} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 10 to Buzz
+{2019-03-24 19:53:13.422} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 11 to 11
+{2019-03-24 19:53:13.423} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 12 to Fizz
+{2019-03-24 19:53:13.423} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 13 to 13
+{2019-03-24 19:53:13.423} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 14 to 14
+{2019-03-24 19:53:13.423} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 15 to BuzzFizz
+{2019-03-24 19:53:13.424} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 16 to 16
+{2019-03-24 19:53:13.424} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 17 to 17
+{2019-03-24 19:53:13.424} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 18 to Fizz
+{2019-03-24 19:53:13.424} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 19 to 19
+{2019-03-24 19:53:13.425} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 20 to Buzz
+{2019-03-24 19:53:13.425} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 21 to Fizz
+{2019-03-24 19:53:13.425} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 22 to 22
+{2019-03-24 19:53:13.425} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 23 to 23
+{2019-03-24 19:53:13.425} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 24 to Fizz
+{2019-03-24 19:53:13.426} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 25 to Buzz
+{2019-03-24 19:53:13.426} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 26 to 26
+{2019-03-24 19:53:13.426} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 27 to Fizz
+{2019-03-24 19:53:13.426} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 28 to 28
+{2019-03-24 19:53:13.427} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 29 to 29
+{2019-03-24 19:53:13.427} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 30 to BuzzFizz
+{2019-03-24 19:53:13.427} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 31 to 31
+{2019-03-24 19:53:13.427} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 32 to 32
+{2019-03-24 19:53:13.431} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 33 to Fizz
+{2019-03-24 19:53:13.431} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 34 to 34
+{2019-03-24 19:53:13.431} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 35 to Buzz
+{2019-03-24 19:53:13.432} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 36 to Fizz
+{2019-03-24 19:53:13.432} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 37 to 37
+{2019-03-24 19:53:13.432} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 38 to 38
+{2019-03-24 19:53:13.432} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 39 to Fizz
+{2019-03-24 19:53:13.432} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 40 to Buzz
+{2019-03-24 19:53:13.433} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 41 to 41
+{2019-03-24 19:53:13.433} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 42 to Fizz
+{2019-03-24 19:53:13.433} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 43 to 43
+{2019-03-24 19:53:13.433} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 44 to 44
+{2019-03-24 19:53:13.434} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 45 to BuzzFizz
+{2019-03-24 19:53:13.434} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 46 to 46
+{2019-03-24 19:53:13.434} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 47 to 47
+{2019-03-24 19:53:13.434} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 48 to Fizz
+{2019-03-24 19:53:13.434} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 49 to 49

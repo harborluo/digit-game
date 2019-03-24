@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration scan="false" scanPeriod="60000" debug="false">
+
+    <appender name="daily-file" class="ch.qos.logback.core.rolling.RollingFileAppender">
+        <!-- Support multiple-JVM writing to the same log file -->
+        <prudent>true</prudent>
+        <rollingPolicy class="ch.qos.logback.core.rolling.TimeBasedRollingPolicy">
+            <fileNamePattern>digit-game.%d{yyyy.MM.dd}.log</fileNamePattern>
+            <maxHistory>30</maxHistory>
+            <totalSizeCap>3GB</totalSizeCap>
+        </rollingPolicy>
+
+        <encoder>
+            <pattern>{%d{yyyy-MM-dd HH:mm:ss.SSS}} [%thread] %-5level %logger{36}.%M\(%line\) - %msg%n</pattern>
+        </encoder>
+
+    </appender>
+
+    <appender name="STDOUT" class="ch.qos.logback.core.ConsoleAppender">
+        <layout class="ch.qos.logback.classic.PatternLayout">
+            <pattern>%d{yyyy-MM-dd HH:mm:ss.SSS} [%thread] %-5level %logger - %msg%n</pattern>
+        </layout>
+    </appender>
+
+    <logger name="com.harbor" level="DEBUG" />
+    <logger name="ch.qos" level="WARN" />
+
+    <root level="info">
+        <appender-ref ref="STDOUT" />
+        <appender-ref ref="daily-file" />
+    </root>
+
+</configuration>
