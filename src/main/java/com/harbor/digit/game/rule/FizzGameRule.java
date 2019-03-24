@@ -7,19 +7,6 @@ import com.harbor.digit.game.GameRound;
  */
 public class FizzGameRule extends AbstractGameRule {
 
-//    public boolean isMatch(int n) {
-//        return n % 3 == 0;
-//    }
-//
-//    public String tranfer(int n, String transferResult) {
-//        return transferResult+ "Fizz";
-//    }
-//
-//    public int getPriority() {
-//        return 0;
-//    }
-
-
     public FizzGameRule(GameRule successor) {
         super(successor);
     }
