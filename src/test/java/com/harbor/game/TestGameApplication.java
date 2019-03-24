@@ -1,9 +1,11 @@
 package com.harbor.game;
 
 import com.harbor.digit.game.GameApplication;
+import com.harbor.digit.game.GameRound;
 import com.harbor.digit.game.rule.BuzzGameRule;
 import com.harbor.digit.game.rule.DefaultGameRule;
 import com.harbor.digit.game.rule.FizzGameRule;
+import com.harbor.digit.game.rule.GameRule;
 import com.harbor.game.rule.TestGameRule;
 import org.junit.Before;
 import org.junit.Test;
@@ -19,21 +21,19 @@ public class TestGameApplication {
 
     private static final Logger logger = LoggerFactory.getLogger(TestGameRule.class);
 
-    @Before
-    public void init(){
-        application = new GameApplication();
-        application.addRule(new BuzzGameRule());
-        application.addRule(new FizzGameRule());
-        application.addRule(new DefaultGameRule());
-    }
-
     @Test
     public void test(){
 
-        for (int i = 1; i < 50; i++) {
-            String result = application.startRound(i);
+        GameRule defaultRule = new DefaultGameRule(null);
+        GameRule buzzRule = new BuzzGameRule(defaultRule);
 
-            logger.info("Transfer digit {} to {}", i, result);
+        GameRule fizzRule = new FizzGameRule(buzzRule);
+
+        for (int i = 1; i < 50; i++) {
+            GameRound round = new GameRound(i, "");
+            fizzRule.play(round);
+
+            logger.info("Transfer digit {} to {}", round.getDigit(), round.getResult());
 
         }
 

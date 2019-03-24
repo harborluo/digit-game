@@ -1,5 +1,7 @@
 package com.harbor.digit.game.rule;
 
+import com.harbor.digit.game.GameRound;
+
 import java.util.Comparator;
 
 /**
@@ -7,16 +9,18 @@ import java.util.Comparator;
  */
 public class BuzzGameRule extends AbstractGameRule {
 
-    public boolean isMatch(int n) {
-        return n % 5 == 0;
+    public BuzzGameRule(GameRule successor) {
+        super(successor);
     }
 
-    public String tranfer(int n, String transferResult) {
-        return transferResult+ "Buzz";
-    }
+    public void play(GameRound round) {
 
-    public int getPriority() {
-        return 1;
+        if (round.getDigit() % 5 == 0 ) {
+            round.addResult("Buzz");
+        }
+
+        super.next(round);
+
     }
 
 }

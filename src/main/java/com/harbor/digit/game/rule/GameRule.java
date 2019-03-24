@@ -1,14 +1,14 @@
 package com.harbor.digit.game.rule;
 
+import com.harbor.digit.game.GameRound;
+
 /**
  * Created by HLuo on 3/24/2019.
  */
 public interface GameRule {
 
-    public boolean isMatch(int n);
+   public void play(GameRound round);
 
-    public String tranfer(int n, String transferedResult);
-
-    public int getPriority();
+   void next(GameRound round);
 
 }

@@ -279,3 +279,255 @@
 {2019-03-24 19:53:13.434} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 47 to 47
 {2019-03-24 19:53:13.434} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 48 to Fizz
 {2019-03-24 19:53:13.434} [main] INFO  com.harbor.game.rule.TestGameRule.test(36) - Transfer digit 49 to 49
+{2019-03-24 22:32:47.825} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 1 to 
+{2019-03-24 22:32:47.832} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 2 to 
+{2019-03-24 22:32:47.833} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 3 to Fizz
+{2019-03-24 22:32:47.833} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 4 to 
+{2019-03-24 22:32:47.833} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 5 to 
+{2019-03-24 22:32:47.833} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 6 to Fizz
+{2019-03-24 22:32:47.833} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 7 to 
+{2019-03-24 22:32:47.833} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 8 to 
+{2019-03-24 22:32:47.834} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 9 to Fizz
+{2019-03-24 22:32:47.834} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 10 to 
+{2019-03-24 22:32:47.834} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 11 to 
+{2019-03-24 22:32:47.834} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 12 to Fizz
+{2019-03-24 22:32:47.834} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 13 to 
+{2019-03-24 22:32:47.834} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 14 to 
+{2019-03-24 22:32:47.834} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 15 to Fizz
+{2019-03-24 22:32:47.835} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 16 to 
+{2019-03-24 22:32:47.835} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 17 to 
+{2019-03-24 22:32:47.835} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 18 to Fizz
+{2019-03-24 22:32:47.835} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 19 to 
+{2019-03-24 22:32:47.835} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 20 to 
+{2019-03-24 22:32:47.835} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 21 to Fizz
+{2019-03-24 22:32:47.835} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 22 to 
+{2019-03-24 22:32:47.835} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 23 to 
+{2019-03-24 22:32:47.836} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 24 to Fizz
+{2019-03-24 22:32:47.836} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 25 to 
+{2019-03-24 22:32:47.836} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 26 to 
+{2019-03-24 22:32:47.836} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 27 to Fizz
+{2019-03-24 22:32:47.836} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 28 to 
+{2019-03-24 22:32:47.836} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 29 to 
+{2019-03-24 22:32:47.836} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 30 to Fizz
+{2019-03-24 22:32:47.836} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 31 to 
+{2019-03-24 22:32:47.837} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 32 to 
+{2019-03-24 22:32:47.837} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 33 to Fizz
+{2019-03-24 22:32:47.837} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 34 to 
+{2019-03-24 22:32:47.837} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 35 to 
+{2019-03-24 22:32:47.837} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 36 to Fizz
+{2019-03-24 22:32:47.837} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 37 to 
+{2019-03-24 22:32:47.837} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 38 to 
+{2019-03-24 22:32:47.838} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 39 to Fizz
+{2019-03-24 22:32:47.838} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 40 to 
+{2019-03-24 22:32:47.838} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 41 to 
+{2019-03-24 22:32:47.841} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 42 to Fizz
+{2019-03-24 22:32:47.842} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 43 to 
+{2019-03-24 22:32:47.842} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 44 to 
+{2019-03-24 22:32:47.842} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 45 to Fizz
+{2019-03-24 22:32:47.842} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 46 to 
+{2019-03-24 22:32:47.842} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 47 to 
+{2019-03-24 22:32:47.842} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 48 to Fizz
+{2019-03-24 22:32:47.842} [main] INFO  c.harbor.digit.game.GameApplication.main(29) - Transfer digit 49 to 
+{2019-03-24 22:36:30.478} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 1 to 
+{2019-03-24 22:36:30.485} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 2 to 
+{2019-03-24 22:36:30.486} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 3 to Fizz
+{2019-03-24 22:36:30.486} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 4 to 
+{2019-03-24 22:36:30.486} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 5 to 
+{2019-03-24 22:36:30.486} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 6 to Fizz
+{2019-03-24 22:36:30.486} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 7 to 
+{2019-03-24 22:36:30.486} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 8 to 
+{2019-03-24 22:36:30.486} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 9 to Fizz
+{2019-03-24 22:36:30.487} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 10 to 
+{2019-03-24 22:36:30.487} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 11 to 
+{2019-03-24 22:36:30.487} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 12 to Fizz
+{2019-03-24 22:36:30.487} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 13 to 
+{2019-03-24 22:36:30.487} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 14 to 
+{2019-03-24 22:36:30.487} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 15 to Fizz
+{2019-03-24 22:36:30.487} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 16 to 
+{2019-03-24 22:36:30.487} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 17 to 
+{2019-03-24 22:36:30.488} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 18 to Fizz
+{2019-03-24 22:36:30.488} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 19 to 
+{2019-03-24 22:36:30.488} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 20 to 
+{2019-03-24 22:36:30.488} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 21 to Fizz
+{2019-03-24 22:36:30.489} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 22 to 
+{2019-03-24 22:36:30.489} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 23 to 
+{2019-03-24 22:36:30.489} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 24 to Fizz
+{2019-03-24 22:36:30.489} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 25 to 
+{2019-03-24 22:36:30.490} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 26 to 
+{2019-03-24 22:36:30.490} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 27 to Fizz
+{2019-03-24 22:36:30.490} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 28 to 
+{2019-03-24 22:36:30.490} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 29 to 
+{2019-03-24 22:36:30.490} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 30 to Fizz
+{2019-03-24 22:36:30.491} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 31 to 
+{2019-03-24 22:36:30.491} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 32 to 
+{2019-03-24 22:36:30.491} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 33 to Fizz
+{2019-03-24 22:36:30.491} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 34 to 
+{2019-03-24 22:36:30.491} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 35 to 
+{2019-03-24 22:36:30.491} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 36 to Fizz
+{2019-03-24 22:36:30.491} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 37 to 
+{2019-03-24 22:36:30.492} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 38 to 
+{2019-03-24 22:36:30.492} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 39 to Fizz
+{2019-03-24 22:36:30.492} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 40 to 
+{2019-03-24 22:36:30.492} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 41 to 
+{2019-03-24 22:36:30.495} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 42 to Fizz
+{2019-03-24 22:36:30.495} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 43 to 
+{2019-03-24 22:36:30.495} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 44 to 
+{2019-03-24 22:36:30.496} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 45 to Fizz
+{2019-03-24 22:36:30.496} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 46 to 
+{2019-03-24 22:36:30.496} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 47 to 
+{2019-03-24 22:36:30.496} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 48 to Fizz
+{2019-03-24 22:36:30.496} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 49 to 
+{2019-03-24 22:39:33.279} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 1 to 
+{2019-03-24 22:39:33.287} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 2 to 
+{2019-03-24 22:39:33.287} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 3 to Fizz
+{2019-03-24 22:39:33.287} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 4 to 
+{2019-03-24 22:39:33.287} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 5 to 
+{2019-03-24 22:39:33.287} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 6 to Fizz
+{2019-03-24 22:39:33.287} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 7 to 
+{2019-03-24 22:39:33.287} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 8 to 
+{2019-03-24 22:39:33.288} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 9 to Fizz
+{2019-03-24 22:39:33.288} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 10 to 
+{2019-03-24 22:39:33.288} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 11 to 
+{2019-03-24 22:39:33.288} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 12 to Fizz
+{2019-03-24 22:39:33.288} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 13 to 
+{2019-03-24 22:39:33.288} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 14 to 
+{2019-03-24 22:39:33.288} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 15 to Fizz
+{2019-03-24 22:39:33.289} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 16 to 
+{2019-03-24 22:39:33.289} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 17 to 
+{2019-03-24 22:39:33.289} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 18 to Fizz
+{2019-03-24 22:39:33.289} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 19 to 
+{2019-03-24 22:39:33.289} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 20 to 
+{2019-03-24 22:39:33.289} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 21 to Fizz
+{2019-03-24 22:39:33.289} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 22 to 
+{2019-03-24 22:39:33.290} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 23 to 
+{2019-03-24 22:39:33.290} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 24 to Fizz
+{2019-03-24 22:39:33.290} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 25 to 
+{2019-03-24 22:39:33.290} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 26 to 
+{2019-03-24 22:39:33.290} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 27 to Fizz
+{2019-03-24 22:39:33.290} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 28 to 
+{2019-03-24 22:39:33.290} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 29 to 
+{2019-03-24 22:39:33.290} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 30 to Fizz
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 31 to 
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 32 to 
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 33 to Fizz
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 34 to 
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 35 to 
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 36 to Fizz
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 37 to 
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 38 to 
+{2019-03-24 22:39:33.291} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 39 to Fizz
+{2019-03-24 22:39:33.292} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 40 to 
+{2019-03-24 22:39:33.292} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 41 to 
+{2019-03-24 22:39:33.295} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 42 to Fizz
+{2019-03-24 22:39:33.295} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 43 to 
+{2019-03-24 22:39:33.295} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 44 to 
+{2019-03-24 22:39:33.295} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 45 to Fizz
+{2019-03-24 22:39:33.295} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 46 to 
+{2019-03-24 22:39:33.295} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 47 to 
+{2019-03-24 22:39:33.295} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 48 to Fizz
+{2019-03-24 22:39:33.296} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 49 to 
+{2019-03-24 22:40:16.904} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 1 to 1
+{2019-03-24 22:40:16.912} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 2 to 2
+{2019-03-24 22:40:16.912} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 3 to Fizz
+{2019-03-24 22:40:16.912} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 4 to 4
+{2019-03-24 22:40:16.913} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 5 to Buzz
+{2019-03-24 22:40:16.913} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 6 to Fizz
+{2019-03-24 22:40:16.913} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 7 to 7
+{2019-03-24 22:40:16.913} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 8 to 8
+{2019-03-24 22:40:16.913} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 9 to Fizz
+{2019-03-24 22:40:16.913} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 10 to Buzz
+{2019-03-24 22:40:16.913} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 11 to 11
+{2019-03-24 22:40:16.914} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 12 to Fizz
+{2019-03-24 22:40:16.914} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 13 to 13
+{2019-03-24 22:40:16.914} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 14 to 14
+{2019-03-24 22:40:16.914} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 15 to FizzBuzz
+{2019-03-24 22:40:16.914} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 16 to 16
+{2019-03-24 22:40:16.914} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 17 to 17
+{2019-03-24 22:40:16.914} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 18 to Fizz
+{2019-03-24 22:40:16.915} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 19 to 19
+{2019-03-24 22:40:16.915} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 20 to Buzz
+{2019-03-24 22:40:16.915} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 21 to Fizz
+{2019-03-24 22:40:16.915} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 22 to 22
+{2019-03-24 22:40:16.915} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 23 to 23
+{2019-03-24 22:40:16.915} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 24 to Fizz
+{2019-03-24 22:40:16.916} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 25 to Buzz
+{2019-03-24 22:40:16.916} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 26 to 26
+{2019-03-24 22:40:16.916} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 27 to Fizz
+{2019-03-24 22:40:16.916} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 28 to 28
+{2019-03-24 22:40:16.916} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 29 to 29
+{2019-03-24 22:40:16.916} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 30 to FizzBuzz
+{2019-03-24 22:40:16.916} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 31 to 31
+{2019-03-24 22:40:16.916} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 32 to 32
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 33 to Fizz
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 34 to 34
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 35 to Buzz
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 36 to Fizz
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 37 to 37
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 38 to 38
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 39 to Fizz
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 40 to Buzz
+{2019-03-24 22:40:16.917} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 41 to 41
+{2019-03-24 22:40:16.920} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 42 to Fizz
+{2019-03-24 22:40:16.921} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 43 to 43
+{2019-03-24 22:40:16.921} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 44 to 44
+{2019-03-24 22:40:16.921} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 45 to FizzBuzz
+{2019-03-24 22:40:16.921} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 46 to 46
+{2019-03-24 22:40:16.921} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 47 to 47
+{2019-03-24 22:40:16.921} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 48 to Fizz
+{2019-03-24 22:40:16.921} [main] INFO  c.harbor.digit.game.GameApplication.main(30) - Transfer digit 49 to 49
+{2019-03-24 22:45:37.563} [main] DEBUG com.harbor.game.rule.TestGameRule.testFizzRule(45) - Transfer 1 to ''
+{2019-03-24 22:45:37.571} [main] DEBUG com.harbor.game.rule.TestGameRule.testFizzRule(51) - Transfer 3 to 'Fizz'
+{2019-03-24 22:45:45.033} [main] DEBUG com.harbor.game.rule.TestGameRule.testBuzzRule(26) - Transfer 1 to ''
+{2019-03-24 22:45:45.039} [main] DEBUG com.harbor.game.rule.TestGameRule.testBuzzRule(32) - Transfer 5 to 'Buzz'
+{2019-03-24 22:45:57.445} [main] DEBUG com.harbor.game.rule.TestGameRule.testFizzRule(45) - Transfer 1 to ''
+{2019-03-24 22:45:57.452} [main] DEBUG com.harbor.game.rule.TestGameRule.testFizzRule(51) - Transfer 3 to 'Fizz'
+{2019-03-24 22:47:46.672} [main] DEBUG com.harbor.game.rule.TestGameRule.testRule(65) - Transfer 1 to '1'
+{2019-03-24 22:48:57.397} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 1 to 1
+{2019-03-24 22:48:57.404} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 2 to 2
+{2019-03-24 22:48:57.404} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 3 to Fizz
+{2019-03-24 22:48:57.404} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 4 to 4
+{2019-03-24 22:48:57.404} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 5 to Buzz
+{2019-03-24 22:48:57.405} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 6 to Fizz
+{2019-03-24 22:48:57.405} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 7 to 7
+{2019-03-24 22:48:57.405} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 8 to 8
+{2019-03-24 22:48:57.405} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 9 to Fizz
+{2019-03-24 22:48:57.405} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 10 to Buzz
+{2019-03-24 22:48:57.405} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 11 to 11
+{2019-03-24 22:48:57.406} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 12 to Fizz
+{2019-03-24 22:48:57.406} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 13 to 13
+{2019-03-24 22:48:57.406} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 14 to 14
+{2019-03-24 22:48:57.406} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 15 to FizzBuzz
+{2019-03-24 22:48:57.406} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 16 to 16
+{2019-03-24 22:48:57.406} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 17 to 17
+{2019-03-24 22:48:57.407} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 18 to Fizz
+{2019-03-24 22:48:57.407} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 19 to 19
+{2019-03-24 22:48:57.407} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 20 to Buzz
+{2019-03-24 22:48:57.407} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 21 to Fizz
+{2019-03-24 22:48:57.407} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 22 to 22
+{2019-03-24 22:48:57.407} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 23 to 23
+{2019-03-24 22:48:57.408} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 24 to Fizz
+{2019-03-24 22:48:57.408} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 25 to Buzz
+{2019-03-24 22:48:57.408} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 26 to 26
+{2019-03-24 22:48:57.408} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 27 to Fizz
+{2019-03-24 22:48:57.411} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 28 to 28
+{2019-03-24 22:48:57.411} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 29 to 29
+{2019-03-24 22:48:57.411} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 30 to FizzBuzz
+{2019-03-24 22:48:57.411} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 31 to 31
+{2019-03-24 22:48:57.411} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 32 to 32
+{2019-03-24 22:48:57.412} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 33 to Fizz
+{2019-03-24 22:48:57.412} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 34 to 34
+{2019-03-24 22:48:57.412} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 35 to Buzz
+{2019-03-24 22:48:57.415} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 36 to Fizz
+{2019-03-24 22:48:57.415} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 37 to 37
+{2019-03-24 22:48:57.415} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 38 to 38
+{2019-03-24 22:48:57.415} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 39 to Fizz
+{2019-03-24 22:48:57.415} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 40 to Buzz
+{2019-03-24 22:48:57.416} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 41 to 41
+{2019-03-24 22:48:57.416} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 42 to Fizz
+{2019-03-24 22:48:57.416} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 43 to 43
+{2019-03-24 22:48:57.416} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 44 to 44
+{2019-03-24 22:48:57.417} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 45 to FizzBuzz
+{2019-03-24 22:48:57.417} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 46 to 46
+{2019-03-24 22:48:57.417} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 47 to 47
+{2019-03-24 22:48:57.417} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 48 to Fizz
+{2019-03-24 22:48:57.417} [main] INFO  com.harbor.game.rule.TestGameRule.test(44) - Transfer digit 49 to 49

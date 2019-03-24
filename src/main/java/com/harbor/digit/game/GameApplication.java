@@ -12,59 +12,26 @@ import java.util.List;
 /**
  * Created by HLuo on 3/24/2019.
  */
-public class GameApplication implements GameManager {
+public class GameApplication {
 
     private static final Logger logger = LoggerFactory.getLogger(GameApplication.class);
 
-    private List<AbstractGameRule> ruleList = new ArrayList();
-
-    private int currentDigit ;
-
-    private String result = "";
-
     public static void main(String[] args) {
 
-        GameApplication application = new GameApplication();
-        application.addRule(new BuzzGameRule());
-        application.addRule(new FizzGameRule());
-        application.addRule(new DefaultGameRule());
+        GameRule defaultRule = new DefaultGameRule(null);
+        GameRule buzzRule = new BuzzGameRule(defaultRule);
+
+        GameRule fizzRule = new FizzGameRule(buzzRule);
 
         for (int i = 1; i < 50; i++) {
-            String result = application.startRound(i);
+            GameRound round = new GameRound(i, "");
+            fizzRule.play(round);
 
-            logger.info("Transfer digit {} to {}", i, result);
+            logger.info("Transfer digit {} to {}", round.getDigit(), round.getResult());
 
         }
 
     }
 
-    public void addRule(AbstractGameRule rule) {
-        ruleList.add(rule);
-        Collections.sort(ruleList);
-        logger.info("New rule with class name '{}' added, count of rules is {}.", rule.getClass().getCanonicalName(), ruleList.size());
-    }
 
-    public void deleteRule(AbstractGameRule rule) {
-        ruleList.remove(rule);
-        Collections.sort(ruleList);
-    }
-
-    public void play() {
-        for(GameRule rule : ruleList){
-           if (rule.isMatch(currentDigit)){
-               result = rule.tranfer(currentDigit, result);
-           }
-        }
-    }
-
-    public String startRound(int digit) {
-
-        this.currentDigit = digit;
-        this.result = "";
-
-        play();
-
-        return this.result;
-
-    }
 }

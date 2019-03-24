@@ -1,6 +1,8 @@
 package com.harbor.game.rule;
 
+import com.harbor.digit.game.GameRound;
 import com.harbor.digit.game.rule.BuzzGameRule;
+import com.harbor.digit.game.rule.DefaultGameRule;
 import com.harbor.digit.game.rule.FizzGameRule;
 import com.harbor.digit.game.rule.GameRule;
 import org.junit.Assert;
@@ -18,50 +20,53 @@ public class TestGameRule {
     @Test
     public void testBuzzRule(){
 
-        GameRule rule = new BuzzGameRule();
-        String initResult="";
-        int digit = 1;
-        String result = testRule(digit, initResult, rule);
-        logger.debug("Transfer {} to '{}'", digit, result);
+        GameRule rule = new BuzzGameRule(null);
+        GameRound round = new GameRound(1,"");
+        rule.play(round);
 
-        Assert.assertTrue(result.length()==0);
+        logger.debug("Transfer {} to '{}'", round.getDigit(), round.getResult());
 
-        digit = 5;
-        initResult="";
-        result = testRule(digit, initResult, rule);
-        logger.debug("Transfer {} to '{}'", digit, result);
+        Assert.assertTrue(round.getResult().length()==0);
 
-        Assert.assertTrue("Buzz".equals(result));
+        round = new GameRound(5,"");
+        rule.play(round);
+        logger.debug("Transfer {} to '{}'", round.getDigit(), round.getResult());
+
+        Assert.assertTrue("Buzz".equals(round.getResult()));
 
     }
 
     @Test
     public void testFizzRule(){
 
-        GameRule rule = new FizzGameRule();
+        GameRound round = new GameRound(1,"");
+        GameRule rule = new FizzGameRule(null);
         String initResult="";
-        int digit = 1;
-        String result = testRule(digit, initResult, rule);
-        logger.debug("Transfer {} to '{}'", digit, result);
+        rule.play(round);
+        logger.debug("Transfer {} to '{}'", round.getDigit(), round.getResult());
 
-        Assert.assertTrue(result.length()==0);
+        Assert.assertTrue(round.getResult().length()==0);
 
-        digit = 3;
-        initResult="";
-        result = testRule(digit, initResult, rule);
-        logger.debug("Transfer {} to '{}'", digit, result);
+         round = new GameRound(3,"");
+        rule.play(round);
+        logger.debug("Transfer {} to '{}'", round.getDigit(), round.getResult());
 
-        Assert.assertTrue("Fizz".equals(result));
+        Assert.assertTrue("Fizz".equals(round.getResult()));
 
     }
 
-    private String testRule(int digit, String result,GameRule rule){
+    @Test
+    public void testDefaultRule(){
 
-        if (rule.isMatch(digit)){
-            return rule.tranfer(digit, result);
-        }
+        GameRound round = new GameRound(1,"");
+        GameRule rule = new DefaultGameRule(null);
+        String initResult="";
+        rule.play(round);
+        logger.debug("Transfer {} to '{}'", round.getDigit(), round.getResult());
 
-        return result;
+        Assert.assertTrue("1".equals(round.getResult()));
 
     }
+
+
 }

@@ -8,13 +8,11 @@ Digital game implemented with basic java
 
 ##Rules defined as follow:
 
-
-
-Rule name           |  Priority             | Apply notes
+Rule name           |  Priority             |  Next rule
 -------------------|-----------------|----------------
-BuzzGameRule       | digit is dividable by 5, transfer to 'Buzz' | 1               
-FizzGameRule       | digit is dividable by 3, transfer to 'Fizz'           | 0                 
-DefaultGameRule    | transfer integer to string in case that no other rules applied           | -1
+FizzGameRule       | digit is dividable by 3, transfer to 'Fizz'           | BuzzGameRule        
+BuzzGameRule       | digit is dividable by 5, transfer to 'Buzz' | DefaultGameRule               
+DefaultGameRule    | transfer integer to string in case that no other rules applied           | NONE
 
 
 ##Note:
